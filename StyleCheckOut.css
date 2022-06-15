@@ -1,0 +1,45 @@
+body {
+	margin: auto; 
+	font-family: Rockwell;
+	background-color: #bdf3ff;
+}
+
+
+.checkout {
+  color: #bdf3ff;
+  text-align: center;
+}
+
+p {
+  color: #8E8E8E;
+}
+
+footer {
+	background-color: #bdf3ff;
+	position: fixed;
+	bottom: 0;
+	width: 100%;
+	margin: auto;
+	text-align: center;
+}
+
+.checkout-cont {
+  padding-top: 120px;
+  display: block;
+  margin: auto;
+  max-width: 500px;
+  padding-left: 200px;
+}
+
+
+.month{
+width:30.5%;
+}
+
+.year{
+  width:30.5%;
+}
+
+.country{
+  padding-right: 108px;
+}
